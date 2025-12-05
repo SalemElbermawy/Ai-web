@@ -16,3 +16,6 @@ How to Use
 4. Select target columns, models, or options.
 5. Enter inputs and view predictions, extracted text, or visualizations.
 6. Manage notes in the Notes page.
+
+
+## I have just use AI to make the website look better but the all models I have wriiten them from zero
